@@ -1,5 +1,6 @@
 package com.example.dependencyinjectionprac.example1
 
-class Monitor {
+import javax.inject.Inject
 
+class Monitor{
 }

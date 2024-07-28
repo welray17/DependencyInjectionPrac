@@ -20,8 +20,7 @@ class Component {
         return computer
     }
 
-    fun inject(activity: Activity) {
-        activity.computer = getComputer()
-        activity.keyboard = Keyboard()
-    }
+//    fun inject(activity: Activity) {
+//        activity.keyboard = Keyboard()
+//    }
 }
